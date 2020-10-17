@@ -1,4 +1,7 @@
-# **Proyek Kuliah** 
+# Proyek Tayo 
 
-Proyek Kuliah yang dikerjakan secara berkelompok bersama teman kuliah
-untuk memenuhi tugas kuliah
+## Proyek Tayo (Trans Yogyakarta Online)
+Konsep dari aplikasi Tayo adalah membantu calon pengguna dan pengguna Trans Jogja untuk 
+
+1. memantau lokasi Bus Trans Jogja
+2. melihat rute Bus Trans Jogja 
